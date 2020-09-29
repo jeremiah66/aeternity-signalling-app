@@ -1,0 +1,1 @@
+[{"app_id":1,"app_name":"Node.js","version_command":"node --version","latest_release_github_api":"https://api.github.com/repos/nodejs/node/releases/latest"},{"app_name":"Aepp-sdk-js","version_command":"aecli --version","latest_release_github_api":"https://api.github.com/repos/aeternity/aepp-sdk-js/releases/latest","app_id":1598339659664}]
