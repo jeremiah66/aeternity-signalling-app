@@ -17,7 +17,7 @@ Project is created with:
 * HTML version: 
 * Java script version:
 * Websockert server:
-. Electron
+* Electron
 
 	
 ## Setup
@@ -32,8 +32,7 @@ npm install
 npm start
 ```
 ## Enviroment
-* To clone and run this repository you'll need Git and Node.js (which comes with npm) installed on your computer. From your command line:
-=======
+* To clone and run this repository you'll need Git and Node.js (which comes with npm) installed on your computer.
 ## Platform supported
 * All supported version of windows:
 * All supported version of Linux: 
