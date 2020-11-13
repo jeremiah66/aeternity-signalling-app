@@ -4,6 +4,7 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 * Enviroment](#Enviroment)
+* Platform supported](#Platform supported)
 * How it works](#how it works)
 * [Viedeo Link](#https://youtu.be/46wEDz-jxfE)
 
@@ -19,13 +20,20 @@ Project is created with:
 . Electron
 
 	
-## Setup/configuration
-To run this project, install it locally using npm:
+## Setup/configuration:
 ```
-$ cd ../lorem
-$ npm install
-$ npm start
+ Clone this repository
+git clone https://github.com/jeremiah66/aeternity-signalling-app.git
+Go into the repository
+cd electron-quick-start
+ Install dependencies
+npm install
+# Run the app
+npm start
 ```
+##Enviroment neded
+*To clone and run this repository you'll need Git and Node.js (which comes with npm) installed on your computer. From your command line:
+=======
 ## Platform supported
 * All version of windows:
 * All version of Linux: 
