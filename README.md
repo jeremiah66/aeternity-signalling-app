@@ -25,7 +25,7 @@ Project is created with:
  Clone this repository
 git clone https://github.com/jeremiah66/aeternity-signalling-app.git
 Go into the repository
-cd electron-quick-start
+cd aeternity-signalling-app
  Install dependencies
 npm install
 # Run the app
