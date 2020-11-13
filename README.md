@@ -15,6 +15,7 @@ Project is created with:
 * HTML version: 
 * Java script version:
 * Websockert server:
+. Electron
 
 	
 ## Setup/configuration
