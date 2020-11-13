@@ -4,6 +4,7 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 * Enviroment](#Enviroment)
+* How it works](#how it works)
 * [Viedeo Link](#https://youtu.be/46wEDz-jxfE)
 
 ## General info
@@ -26,6 +27,10 @@ $ npm install
 $ npm start
 ```
 ## Enviroment Neded
+* All version of windows:
+* All version of Linux: 
+* All version of MacOS:
+## How it works
 * All version of windows:
 * All version of Linux: 
 * All version of MacOS:
