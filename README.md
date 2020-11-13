@@ -35,9 +35,9 @@ npm start
 * To clone and run this repository you'll need Git and Node.js (which comes with npm) installed on your computer. From your command line:
 =======
 ## Platform supported
-* All version of windows:
-* All version of Linux: 
-* All version of MacOS:
+* All supported version of windows:
+* All supported version of Linux: 
+* All supported version of MacOS:
 ## How it works
 * A user can subscribe by registering the SDK he/she using by writing name,Version command to check the current version he/she using and Latest release API to check git hub repo for latest version.
 * He or She then can scan for the latest release available. 
