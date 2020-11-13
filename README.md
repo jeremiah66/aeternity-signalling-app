@@ -13,11 +13,11 @@ This project is simple signalling app for new SDK release.
 	
 ## Technologies
 Project is created with:
-* Vue.jsversion:
-* HTML version: 
-* Java script version:
-* Websockert server:
-* Electron
+* Vue.js version 3.0. 0.
+* HTML version 5.
+* Java script version 1.8. 5.
+* Websockert server version 1.0.32.
+* Electron version 10.1.5.
 
 	
 ## Setup
