@@ -3,7 +3,7 @@
 * [General info](#general-info)
 * [Technologies](#technologies)
 * [Setup](#setup)
-* Enviroment](#Enviroment)
+* [Enviroment](#enviroment)
 * Platform supported](#Platform supported)
 * How it works](#how it works)
 * [Viedeo Link](#https://youtu.be/46wEDz-jxfE)
