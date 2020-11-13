@@ -20,15 +20,24 @@ Project is created with:
 	
 ## Setup/configuration
 To run this project, install it locally using npm:
+
+To clone and run this repository you'll need Git and Node.js (which comes with npm) installed on your computer. From your command line:
+
+# Clone this repository
+git clone https://github.com/jeremiah66/aeternity-signalling-app.git
+# Go into the repository
+cd electron-quick-start
+# Install dependencies
+npm install
+# Run the app
+npm start
 ```
 $ cd ../lorem
 $ npm install
 $ npm start
 ```
 ## Enviroment Neded
-* All version of windows:
-* All version of Linux: 
-* All version of MacOS:
+To clone and run this repository you'll need Git and Node.js (which comes with npm) installed on your computer. From your command line:
 
 ## Video link
 https://youtu.be/46wEDz-jxfE
