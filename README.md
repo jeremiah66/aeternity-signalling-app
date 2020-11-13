@@ -4,8 +4,8 @@
 * [Technologies](#technologies)
 * [Setup](#setup)
 * [Enviroment](#enviroment)
-* Platform supported](#Platform supported)
-* How it works](#how it works)
+* [Platform supported](#platform supported)
+* [How it works](#how it works)
 * [Viedeo Link](#https://youtu.be/46wEDz-jxfE)
 
 ## General info
@@ -20,7 +20,7 @@ Project is created with:
 . Electron
 
 	
-## Setup/configuration:
+## Setup
 ```
  Clone this repository
 git clone https://github.com/jeremiah66/aeternity-signalling-app.git
@@ -31,7 +31,7 @@ npm install
 # Run the app
 npm start
 ```
-## Enviroment neded
+## Enviroment
 * To clone and run this repository you'll need Git and Node.js (which comes with npm) installed on your computer. From your command line:
 =======
 ## Platform supported
