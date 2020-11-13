@@ -6,7 +6,7 @@
 * [Enviroment](#enviroment)
 * [Platform supported](#platform supported)
 * [How it works](#how it works)
-* [Viedeo Link](#https://youtu.be/46wEDz-jxfE)
+* [Video Link](#Video Link)
 
 ## General info
 This project is simple signalling app for new SDK release.
