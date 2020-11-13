@@ -26,7 +26,7 @@ $ cd ../lorem
 $ npm install
 $ npm start
 ```
-## Enviroment Neded
+## Platform supported
 * All version of windows:
 * All version of Linux: 
 * All version of MacOS:
