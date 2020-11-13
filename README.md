@@ -25,7 +25,6 @@ $ npm install
 $ npm start
 ```
 ## Enviroment Neded
-Project is created with:
 * All version of windows:
 * All version of Linux: 
 * All version of MacOS:
