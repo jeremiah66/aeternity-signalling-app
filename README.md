@@ -31,8 +31,8 @@ $ npm start
 * All version of Linux: 
 * All version of MacOS:
 ## How it works
-*A user can subscribe by registering the SDK he/she using by writing name,Version command to check the current version he/she using and Latest release API to check git hub repo for latest version.
-*He or She then can scan for the latest release available. 
+* A user can subscribe by registering the SDK he/she using by writing name,Version command to check the current version he/she using and Latest release API to check git hub repo for latest version.
+* He or She then can scan for the latest release available. 
 * The signalling app will check the github repo and it will give the result about the status of the sdk in user machine.
 
 ## Video link
